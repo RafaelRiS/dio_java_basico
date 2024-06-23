@@ -1,3 +1,4 @@
+package edu.rafael.primeirasemana;
 public class BoletimEstudantil {
     public static void main(String[] args) {
         // arquivo BoletimEstudantil.java
