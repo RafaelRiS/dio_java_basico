@@ -4,6 +4,8 @@ public class TiposVariaveis {
         //tipos primitivos
         //classe String que representa texto na aplicação
         
+        String meuNome = "Rafael";
+
         double salarioMinimo = 2500;
 
         short numeroCurto = 1;
