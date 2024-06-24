@@ -1,5 +1,9 @@
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
+        
+        //tipos primitivos
+        //classe String que representa texto na aplicação
+        
         double salarioMinimo = 2500;
 
         short numeroCurto = 1;
